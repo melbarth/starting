@@ -1,0 +1,108 @@
+.colors {
+    width: auto;
+    height: 500px;
+    border: 2px black solid;
+}
+
+h2 {
+    text-align: center;
+}
+
+.red {
+    width: 300px;
+    height: 150px;
+    background-color: red;
+    display: inline-block;
+    margin: 10px;
+}
+
+.blue {
+    width: 300px;
+    height: 150px;
+    background-color: blue;
+    display: inline-block;
+    margin: 10px;
+}
+
+.green {
+    width: 300px;
+    height: 150px;
+    background-color: green;
+    display: inline-block;
+    margin: 10px;
+}
+
+.yellow {
+    width: 300px;
+    height: 150px;
+    background-color: yellow;
+    display: inline-block;
+    margin: 10px;
+}
+
+.pink {
+    width: 300px;
+    height: 150px;
+    background-color: pink;
+    display: inline-block;
+    margin: 10px;
+}
+
+.light-blue {
+    width: 300px;
+    height: 150px;
+    background-color: lightblue;
+    display: inline-block;
+    margin: 10px;
+}
+
+.light-green {
+    width: 300px;
+    height: 150px;
+    background-color: lightgreen;
+    display: inline-block;
+    margin: 10px;
+}
+
+.yellow-green {
+    width: 300px;
+    height: 150px;
+    background-color: yellowgreen;
+    display: inline-block;
+    margin: 10px;
+}
+
+.fonts {
+    width: auto;
+    height: 500px;
+    border: 2px black solid;
+    margin-top: 10px;
+}
+
+.font-one {
+    width: 300px;
+    height: 150px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.font-two {
+    width: 300px;
+    height: 150px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.font-three {
+    width: 300px;
+    height: 150px;
+    display: inline-block;
+    margin: 10px;
+}
+
+.font-four {
+    width: 300px;
+    height: 150px;
+    display: inline-block;
+    margin: 10px;
+}
