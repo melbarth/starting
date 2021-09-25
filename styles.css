@@ -114,3 +114,22 @@ h2 {
     font-family: 'Open Sans Condensed', sans-serif;
     font-size: 20px;
 }
+
+.text-styles {
+    width: auto;
+    height: 700px;
+    border: 2px black solid;
+    margin-top: 10px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+.subheading {
+    text-align: left;
+}
+
+p {
+    font-size: 20px;
+}
