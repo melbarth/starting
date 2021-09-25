@@ -80,29 +80,37 @@ h2 {
 }
 
 .font-one {
-    width: 300px;
+    width: 350px;
     height: 150px;
     display: inline-block;
     margin: 10px;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 20px;
 }
 
 .font-two {
-    width: 300px;
+    width: 350px;
     height: 150px;
     display: inline-block;
     margin: 10px;
+    font-family: 'Stick No Bills', sans-serif;
+    font-size: 20px;
 }
 
 .font-three {
-    width: 300px;
+    width: 350px;
     height: 150px;
     display: inline-block;
     margin: 10px;
+    font-family: 'Bonheur Royale', cursive;
+    font-size: 24px;
 }
 
 .font-four {
-    width: 300px;
+    width: 350px;
     height: 150px;
     display: inline-block;
     margin: 10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
 }
